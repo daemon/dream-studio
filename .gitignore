@@ -1,0 +1,7 @@
+bin
+*.sublime-project
+*.sublime-workspace
+CMakeFiles
+Makefile
+*.cmake
+CMakeCache.txt
